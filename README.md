@@ -57,9 +57,12 @@
 [![](https://visitcount.itsvg.in/api?id=Khus126&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-# My Project
 
+
+## 🐍 Contribution Snake
 ![Snake animation](https://github.com/khush126/khush126/blob/output/github-contribution-grid-snake.svg)
 
+---
 
+✨ Thanks for visiting!  
 
