@@ -34,10 +34,8 @@
 
 ---
 ## ❤️ I'm Code on (DSA)
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/4khushi/) 
 
-<p align="left"> 
-<img src="lc.png" height="40px" width="40px">
-</p> 
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kumari-28819b2b2/) [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khus126)
