@@ -37,6 +37,10 @@
 [![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/4khushi/) 
 
 
+
+## All DSA Badges @LeetCode
+[!(https://leetcode.com/medal/?showImg=0&id=8736579&isLevel=false)]
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-kumari-28819b2b2/) [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khus126)
 
